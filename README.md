@@ -1,7 +1,7 @@
 # lws_s2_map
 Current Standing and Approved Final Map for Server 1404
 
-To use, go to Captain Hedgehogs Season 2 Map Editor [here] (https://cpt-hedge.com/maps/season-2/interactive)
+To use, go to Captain Hedgehogs Season 2 Map Editor [here]([url](https://cpt-hedge.com/maps/season-2/interactive)).
 
 In the top, left-hand corner click on "Grids", then "Import"
 
