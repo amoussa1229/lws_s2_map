@@ -6,3 +6,4 @@ To use, click on the tile titled "map.json" From there, click the button in the 
 Update Log
 
 - 10-24-25
+- 10-26-25
